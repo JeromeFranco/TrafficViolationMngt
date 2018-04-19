@@ -19,7 +19,7 @@ Below you'll find information about performing common tasks.
 5. Run `npm i` in order to install dependencies.<br />
 6. Run the command below to configure Packager IP Address:
 ```
-set REACT_NATIVE_PACKAGER_HOSTNAME='my-custom-ip-address-or-hostname'
+set REACT_NATIVE_PACKAGER_HOSTNAME=my-custom-ip-address-or-hostname
 ```
 Note: ``my-custom-ip-address-or-hostname`` is your IPv4 Address. You can see your IPv4 Address by opening command prompt and entering this command ``ipconfig``.<br />
 
