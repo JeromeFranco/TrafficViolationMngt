@@ -8,7 +8,7 @@ Below you'll find information about performing common tasks.
 2. Install [Visual Studio Code](https://code.visualstudio.com/download)
 3. Install [git](https://git-scm.com/download/win)
 4. Install expo on command prompt using this command `npm i -g expo` (Note: Make sure that node.js is already installed)
-5. Install expo on command prompt using this command `npm i -g npm create-react-native-app` (Note: Make sure that node.js is already installed)
+5. Install expo on command prompt using this command `npm i -g create-react-native-app` (Note: Make sure that node.js is already installed)
 
 ## Quick Start
 
