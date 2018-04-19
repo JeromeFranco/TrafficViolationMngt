@@ -12,18 +12,19 @@ Below you'll find information about performing common tasks.
 
 ## Quick Start
 
-1. Open explorer and go to a folder where you want to download the code
-2. Press ``alt + D`` and hit `` Enter ``. This will open a comand prompt inside the folder.
-3. Clone this repo using `git clone https://github.com/JeromeFranco/TrafficViolationMngt.git`
-4. Move to the appropriate directory: `cd react-boilerplate`.<br />
-5. Run `npm i` in order to install dependencies and clean the git repo.<br />
-6. Run the command below:
+1. Open file explorer and go to a folder where you want to download the code.
+2. Press ``alt + D`` and hit `` Enter ``. This will open a comand prompt inside that folder.
+3. Clone this repo using `git clone https://github.com/JeromeFranco/TrafficViolationMngt.git`.
+4. Move to the appropriate directory: `cd TrafficViolationMngt`.<br />
+5. Run `npm i` in order to install dependencies.<br />
+6. Run the command below to configure Packager IP Address:
 ```
 set REACT_NATIVE_PACKAGER_HOSTNAME='my-custom-ip-address-or-hostname'
-npm start
 ```
+Note: ``my-custom-ip-address-or-hostname`` is your IPv4 Address. You can see your IPv4 Address by opening command prompt and entering this command ``ipconfig``.<br />
 
-Note: ``my-custom-ip-address-or-hostname`` is your IPv4 Address. You can see your IPv4 Address by opening command prompt and entering this command ``ipconfig``.
+7. Run ``npm start`` to run the app.
+8. Scan QR code on your phone using the expo client app (You can download the app in Play Store) to lunch the app on your phone.
 
 ## Available Scripts
 
