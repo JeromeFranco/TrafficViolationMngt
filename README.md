@@ -16,16 +16,18 @@ Below you'll find information about performing common tasks.
 2. Press ``alt + D``, type ``cmd`` and hit `` Enter ``. This will open a comand prompt inside Documents.
 3. Download the source code using `git clone https://github.com/JeromeFranco/TrafficViolationMngt.git`.
 4. Open the folder of the source code. Look for a folder named TrafficViolationMngt inside Documents.<br />
-5. Press ``alt + D``, type ``cmd`` and hit `` Enter ``. This will open a comand prompt inside TrafficViolationMngt.
+5. Press ``alt + D``, type ``cmd`` and hit `` Enter ``. This will open a comand prompt inside TrafficViolationMngt.<br />
 6. Type `npm i` and hit ``Enter`` in order to install dependencies.<br />
-7. Run the command below to configure Packager IP Address:
+7. Open another command prompt and enter this command ``ipconfig``. Look for your IPv4 Address.
+8. Go back to the previous command prompt and run the command below to configure Packager IP Address:
+
+Note: Replace ``<your-ipv4-address-here>`` from the command below with your IPv4 Address.<br />
 ```
   set REACT_NATIVE_PACKAGER_HOSTNAME=<your-ipv4-address-here>
 ```
-Note: Replace ``<your-ipv4-address-here>`` with your IPv4 Address. You can see your IPv4 Address by opening command prompt and entering this command ``ipconfig``.<br />
 
-8. Run ``npm start`` to run the app.
-9. Scan QR code on your phone using the expo client app (You can download the app in Play Store) to lunch the app on your phone.
+9. Run ``npm start`` to run the app.
+10. Scan QR code on your phone using the expo client app (You can download the app in Play Store) to lunch the app on your phone.
 
 ## Available Scripts
 
