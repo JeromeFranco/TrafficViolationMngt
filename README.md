@@ -13,7 +13,7 @@ Below you'll find information about performing common tasks.
 ## Quick Start
 
 1. Open file explorer and go to a folder where you want to download the code.
-2. Press ``alt + D`` and hit `` Enter ``. This will open a comand prompt inside that folder.
+2. Press ``alt + D``, type ``cmd`` and hit `` Enter ``. This will open a comand prompt inside that folder.
 3. Clone this repo using `git clone https://github.com/JeromeFranco/TrafficViolationMngt.git`.
 4. Move to the appropriate directory: `cd TrafficViolationMngt`.<br />
 5. Run `npm i` in order to install dependencies.<br />
