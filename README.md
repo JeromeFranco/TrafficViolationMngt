@@ -19,7 +19,7 @@ Below you'll find information about performing common tasks.
 5. Press ``alt + D``, type ``cmd`` and hit `` Enter ``. This will open a comand prompt inside TrafficViolationMngt.<br />
 6. Type `npm i` and hit ``Enter`` in order to install dependencies.<br />
 7. Enter this command ``ipconfig``. Look for your IPv4 Address.
-8. Type this command ``set REACT_NATIVE_PACKAGER_HOSTNAME=<your-ipv4-address-here>``.
+8. Type this command ``set REACT_NATIVE_PACKAGER_HOSTNAME=(your-ipv4-address-here)``.
 9. Run ``npm start`` to run the app.
 10. Scan QR code on your phone using the expo client app (You can download the app in Play Store) to lunch the app on your phone.
 
