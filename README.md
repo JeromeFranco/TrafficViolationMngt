@@ -15,7 +15,7 @@ Below you'll find information about performing common tasks.
 1. Open Documents folder.
 2. Press ``alt + D``, type ``cmd`` and hit `` Enter ``. This will open a comand prompt inside Documents.
 3. Download the source code using `git clone https://github.com/JeromeFranco/TrafficViolationMngt.git`.
-4. Open the folder of the source code using ``cd TrafficViolationMngt``.<br />
+4. Open the folder of the source code. Look for a folder named TrafficViolationMngt inside Documents.<br />
 5. Run `npm i` in order to install dependencies.<br />
 6. Run the command below to configure Packager IP Address:
 ```
